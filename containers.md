@@ -1,4 +1,4 @@
-## Notes from Docker Master Udemy Course
+## Containers
 
 Docker Engine is the **server**. It's running in the background the whole time.
 Docker CLI is the **client**. When a user (me) types `docker version` for example,
