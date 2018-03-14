@@ -48,6 +48,7 @@ Copy your source code into the container images. This is **not** the same as the
 `cp` Unix command. It will actualy create a directory if it doesn't exist in the
 `FROM`'s filesystem! Very nice.
 
+**To copy everything in the cwd to the WORKDIR: `COPY . .`** (not COPY * ./)
 ---
 
 ## Building an Image
